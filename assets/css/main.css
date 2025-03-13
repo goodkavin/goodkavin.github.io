@@ -9,9 +9,11 @@
 
 body {
   background-color: #f2f2f2;
-    font-family: 'EB Garamond', serif;
-    font-weight: 300;
-    font-size: 16px;
+    font-family: 'Archivo', sans-serif;
+	font-optical-sizing: auto;
+    font-weight: 400;
+	font-variation-settings:
+		"wdth" 100;
     color: #555;
 
     -webkit-font-smoothing: antialiased;
@@ -20,8 +22,8 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Oswald', sans-serif;
-    font-weight: 300;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 400;
     color: #333;
 }
 
@@ -38,7 +40,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #e3dfba;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -64,7 +66,7 @@ a:after {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
- hr {
+hr {
     display: block;
     height: 1px;
     border: 0;
@@ -79,12 +81,14 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	/*background: url(../img/header-bg.jpg) no-repeat center top;*/
+	background: #6e6b66;
 	margin-top: -10px;
 	padding-top:20px;
 	text-align:center;
-	background-attachment: relative;
+	/*background-attachment: relative;
 	background-position: center center;
+	*/
 	min-height: 700px;
 	width: 100%;
 	
@@ -108,10 +112,8 @@ a:after {
 
 #headerwrap h3 {
 	color: white;
-	font-size: 30px;
-	font-weight: 100;
-    font-family: 'EB Garamond', serif;
-    font-style: oblique;
+	font-size: 72px;
+	margin-top: 300px;
 }
 
 #headerwrap .logo {
@@ -124,15 +126,15 @@ a:after {
 /* Footer Wrap */
 
 #f {
-	background: #1a1a1a;
-	padding-top: 70px;
+	background: #6e6b66;
+	padding-top: 170px;
 	padding-bottom: 70px;
 	text-align: center
 }
 
 #f h3 {
 	color: white;
-	font-size: 28px;
+	font-size: 72px;
 	font-weight: 700;
 	letter-spacing: 1px;	
 }
@@ -144,7 +146,8 @@ a:after {
 }
 
 #f p {
-	font-size: 20px;
+	font-size: 36px;
+	line-height: 45px;
 	color: #f2f2f2;
 }
 
@@ -179,7 +182,7 @@ a:after {
 }
 
 .menu h1.logo a {
-	font-family: 'Oswald', sans-serif;
+    font-family: 'Archivo', sans-serif;
 	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 0.15em;
