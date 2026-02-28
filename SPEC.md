@@ -79,9 +79,9 @@ I help companies operate digitally.
 
 [Content below]
 
+MINEERP (link to mineerp.com)
 MY APPROACH
-MINEERP
-OTHER WORKS
+MY WORKS
 INTERESTS
 CONTACT
 
@@ -231,27 +231,15 @@ HOME                                            ← --font-body, --color-link
 GOOD KAVIN S.                                   ← --font-display, --text-xl, --ls-display
 I help companies operate digitally.             ← --font-display, --text-lg, --ls-tagline, --color-text-2
 
-Hi, I'm Good. I have a background in enterprise digital transformation.
-Now I'm a co-founder of MineERP, an ERP for Thai SME, especially manufacturers.
-I focus on building a software for complex business, but simple to use like modern application.
-I lead my team of developers and designers and also contribute as a product manager.
-I am passionate about efficiency and want to generate a positive impact to local community and the world.
+Hi, I'm Good. My background is in enterprise data and operations at scale. I chose to take that experience and apply it where it generates real impact, Thai SMEs, with a focus on manufacturers. I co-founded MineERP: ERP software that handles complex business flows but is simple enough for anyone on the shop floor to pick up on day one.
 
-MY WORK                                         ← --font-body, --color-link
+MINEERP                                         ← --font-body, --color-accent, links to mineerp.com
 MY APPROACH                                     ← --font-body, --color-link
+MY WORKS                                        ← --font-body, --color-link
 INTERESTS                                       ← --font-body, --color-link
 CONTACT                                         ← --font-body, --color-link
 
-@Claude """
-revise to:
-MINEERP (link to mineerp.com)
-MY APPROACH
-MY WORKS
-INTERESTS
-CONTACT
-"""
-
-ELSEWHERE:                                      ← --font-body, --color-text-2
+MORE PROFESSIONAL VERSION:                      ← --font-body, --color-text-2
 LinkedIn                                        ← --font-body, --color-link
 ```
 
@@ -263,33 +251,32 @@ HOME                                            ← --font-body, --color-link
 MY WORKS                                        ← --font-display, --text-lg, --ls-display
 
 [1–2 line context paragraph]                    ← --font-body
-2022-PRESENT
+2022–PRESENT
 COO, NPR Digital Partner (MineERP)
-- Currently focusing on scaling MineERP to more users
-- Worked on ground with Thai SME shop floor workers, delivery drivers, warehouse staff, production planners, managers, executive, to truly understand their needs 
-- Build culture and manage a team of 7-12 people including developers, designers, and QA
-- Researched a lot of ERPs and iterate MineERP over and over to find the best and truly unique way to solve problem with MineERP
-- Set UX direction of MineERP
-- Experience digital transformation in Manufacturing, Trading, Retail, E-Commerce, Logistics, Construction Material
-- Also did a lot of customized projects including: data platform, dashboard, E-Commerce automation, WMS, CRM, Mini-ERP, Retail ERP, website, government projects, and other things to keep the company running and feed myself (and my team)
-- Shout out to my team (and ex-members), and also my early clients, they are the best <3
+- Scaling MineERP to more users
+- Worked on the ground with Thai SME shop floor workers, delivery drivers, warehouse staff, production planners, managers, and executives, to actually understand their needs
+- Built the culture and managed a team of 7–12 people: developers, designers, and QA
+- Studied a lot of ERPs and iterated MineERP over and over to find a genuinely unique way to solve these problems
+- Set UX direction for MineERP
+- Touched every industry along the way: Manufacturing, Trading, Retail, E-Commerce, Logistics, Construction Materials
+- Also did a lot of custom projects to keep the company running and feed myself (and my team): data platforms, dashboards, E-Commerce automation, WMS, CRM, Mini-ERP, Retail ERP, websites, government projects
+- Shout out to my team (and ex-members), and also my early clients. They are the best <3️
 
-
-2019-2022
+2019–2022
 Data Engineer, Accenture
-- Industry: Banking, Retail, Insurance
-- My work is basically understand which data is required for business, identify data source, and build a pipeline to deliver data to user
-- Built real-time data framework (Databricks, Azure, Kafka)
+- Industries: Banking, Retail, Insurance
+- The job: understand what data the business needs, find where it lives, and build pipelines to deliver it
+- Built a real-time data framework (Databricks, Azure, Kafka)
 - Researched and implemented Delta Lake (unified batch and streaming data)
-- Developed Voice AI chatbot for customer service POC - This is pretty cool, LLM probably helped a lot now
-- Part of a big data migration team from legacy data platform on-premise in UK to cloud in Singapore
+- Developed a Voice AI chatbot for customer service (POC). LLMs probably made this a lot easier now
+- Part of a big data migration from legacy on-premise in the UK to cloud in Singapore
 
 2018
 Software Engineer Intern, Digital Ventures (SCB 10X)
-- Learned about blockchain and practical applications (it's mostly hype)
-- Learned software development process in enterprise scale
-- Coded some Kotlin/Smart Contract
-- Documented API and business process
+- Learned about blockchain and its practical applications (it's mostly hype)
+- Learned software development process at enterprise scale
+- Wrote some Kotlin and smart contracts
+- Documented APIs and business processes
 
 
 GET IN TOUCH                                    ← --font-body, --color-link
@@ -302,11 +289,10 @@ HOME
 
 MY APPROACH                                     ← --font-display
 
-1. I take creative work into a structured system, utilizing both spectrum of design discovery and engineering mindset. - Turns creativity structured.
-I work with process and frameworks. everything even non-coding is verifiable, trackable, and valuable. Also, no unecessary/repetitive works.
-2. To be Minimal is be powerful. A good user manual is no need for user manual. A good code documentation is no need for code documentation.
-3. Teach a man how to fish instead of giving them fish. I value coaching so much and I will make everyone’s encounter with me valuable. I believe that people have untapped potential and I apply it to both my internal team and customer(SMEs).
-4. A fun and feel good work style, culture, environment is both good for now and sustainable for the future.
+1. Creativity without structure is chaos. I use design discovery and engineering discipline together, turning ideas into systems where every piece of work is verifiable, trackable, and worth doing.
+2. Minimal is powerful. The best user manual is no user manual. The best documentation is code that doesn’t need it.
+3. Teach a man to fish instead of giving him fish. I value coaching and I will make everyone’s encounter with me valuable. I believe people have untapped potential and I apply this to both my internal team and customers (SMEs).
+4. A fun, feel-good work style, culture, and environment is both good for now and sustainable for the future.
 
 GET IN TOUCH
 ```
@@ -319,14 +305,14 @@ HOME
 INTERESTS                                       ← --font-display
 
 This is gonna be long.
-- Tech: Mostly PC and server, I use both Mac/Windows/Linux and just recently started a home server to host my media services and POC projects.
-- Audio: I enjoyed hi-fi audio since I got my first Shure SE215 and hooked to the quality of live concert flooding through my ears. Now I rotate HD6XX, Hifiman HE500, Etymotics ER4XR, Crinear Meta, Artti T10 Pro. I'm also objective+science first, so I still rock the JDS Labs O2/ODAC DIY. I also use KEF R100/Emotiva A100. Almost all of this is bought used. (which you'll see is a recurring theme)
-- Mechanical Keyboards: Started with Anne Pro, then dove in to custom keyboard scene and now...bought and sold a lot. Currently mainly use HHKB pro 2, Kei (60% is goated), KFE CE (silver so good), MGA Standard (alice also goated), a lot of GMK/CRP keycaps.
-- Classic Menswear: From London Brown loafer which I still wear after 10 years, I enjoy soft-tailoring, effortless styles, emphasize on proportions, and also value. My favorites brands are Ring Jacket, Spier & Mackay, Kamakura Shirts, Echizenya pants, and vintage stuffs. Some of my shoes are from Meermin, Carmina, John Lobb, Allen Edmonds. Most of them is used. My grail is Edward Green, but let's wait after I exited my startup first (no consultant money now)
-- Anime: let's just say as of this writinng, I've watched 317 animes... some of my favourits: Ping Pong the animation, Attack on Titan, A Place Further than the Universe, Akira, Monogatari Series, Cowboy Bebop and a lot of KyotoAni works.
-- Hiking and Camping: I just started getting into (ultralight) backpacking. I love walking through wilderness. Never felt more free. I love brands like Gnuhr and equipments from Gossamer Gear
-- I also play tennis and golf. I think I'll play golf for my whole life (and still couldn't break 80s)
-- Learning: learning new things, new skills, mostly in tech/science/engineering/design, but I never reject trying new things, life is short.
+- Tech: Mostly PC and server. I use Mac/Windows/Linux and just recently started a home server to host my media services and POC projects.
+- Audio: I've enjoyed hi-fi audio since I got my first Shure SE215 and got hooked on the sound of a live concert flooding through my ears. Current rotation: HD6XX, Hifiman HE500, Etymotic ER4XR, Crinacle Meta, Artti T10 Pro. I'm objective+science first, so I still rock the JDS Labs O2/ODAC DIY and KEF R100/Emotiva A100. Almost all bought used (which you'll see is a recurring theme).
+- Mechanical Keyboards: Started with Anne Pro, then dove into the custom keyboard scene and now... bought and sold a lot. Currently mainly use HHKB Pro 2, Kei (60% is goated), KFE CE (silver so good), MGA Standard (alice also goated), a lot of GMK/CRP keycaps.
+- Classic Menswear: From a London Brown loafer I still wear after 10 years, I enjoy soft-tailoring, effortless styles, emphasis on proportions, and value. Favorite brands: Ring Jacket, Spier & Mackay, Kamakura Shirts, Echizenya pants, and vintage stuff. Shoes from Meermin, Carmina, John Lobb, Allen Edmonds. Most bought used. My grail is Edward Green, but that can wait until after I've exited my startup (no consultant money now).
+- Anime: Let's just say as of this writing, I've watched 317 animes... some of my favorites: Ping Pong the Animation, Attack on Titan, A Place Further than the Universe, Akira, Monogatari Series, Cowboy Bebop, and a lot of KyoAni works.
+- Hiking and Camping: I just started getting into ultralight backpacking. I love walking through wilderness. Never felt more free. Brands I like: Gnuhr, Gossamer Gear.
+- I also play tennis and golf. I think I'll play golf for my whole life (and still can't break 80).
+- Learning: Learning new things, new skills, mostly tech/science/engineering/design, but I never reject trying something new. Life is short.
 
 GET IN TOUCH
 ```
@@ -416,7 +402,8 @@ OG image: Simple dark card with name + tagline in Michroma. Generated as a stati
 | Contact email | Owner to confirm | `hello@kavin.xyz` or other -> hello@goodkav.in |
 | LinkedIn URL | Owner to provide | https://www.linkedin.com/in/kavins/ |
 | OG image | Generate after build | Dark card with name in Michroma |
-| Accent contrast verify | During build | `#a0785a` may need slight lightening for AA |
+| Background color | During build | Owner wants lighter gray than `#0e0e0e` — test visually in browser |
+| Accent contrast verify | During build | `#a0785a` may need slight lightening for AA (recheck after bg change) |
 | Favicon | During build | Text-based SVG, "K" or "KS" in Michroma |
 
 ---
