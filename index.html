@@ -13,6 +13,16 @@
   <meta name="twitter:card" content="summary">
   <link rel="icon" href="favicon.gif" type="image/gif">
   <link rel="stylesheet" href="style.css">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B4Y5BZNXV6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-B4Y5BZNXV6');
+  </script>
 </head>
 
 <body>
@@ -34,23 +44,25 @@
 
     <section class="intro">
       <p>Hi, I'm Good. My background is in enterprise data and digital transformation at scale.</p>
-      <p>I chose to take that experience and apply it where it generates real impact, Thai SMEs, with a focus on manufacturers.</p>
-      <p>I co-founded <a href="https://mineerp.com" target="_blank" rel="noopener">MineERP</a>: ERP software that handles complex business flows but is simple enough for anyone on the shop floor to pick up on day one.</p>
+      <p>I chose to take that experience and apply it where it generates real impact, Thai SMEs, with a focus on
+        manufacturers.</p>
+      <p>I co-founded <a href="https://mineerp.com" target="_blank" rel="noopener">MineERP</a>: ERP software that
+        handles complex business flows but is simple enough for anyone on the shop floor to pick up on day one.</p>
     </section>
 
     <nav>
       <ul class="link-list">
-        <li><a href="approach.html">MY APPROACH</a></li>
-        <li><a href="work.html">MY WORKS</a></li>
-        <li><a href="interests.html">INTERESTS</a></li>
-        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="approach.html" onclick="gtag('event', 'nav_click', {event_category: 'engagement', event_label: 'approach'})">MY APPROACH</a></li>
+        <li><a href="work.html" onclick="gtag('event', 'nav_click', {event_category: 'engagement', event_label: 'work'})">MY WORKS</a></li>
+        <li><a href="interests.html" onclick="gtag('event', 'nav_click', {event_category: 'engagement', event_label: 'interests'})">INTERESTS</a></li>
+        <li><a href="contact.html" onclick="gtag('event', 'nav_click', {event_category: 'engagement', event_label: 'contact'})">CONTACT</a></li>
       </ul>
     </nav>
 
     <section class="secondary-section">
       <ul class="social-links">
-        <li><a href="https://www.linkedin.com/in/kavins/" target="_blank" rel="noopener">The boring version</a></li>
-        <li><a href="https://www.instagram.com/goodkavin" target="_blank" rel="noopener">The aesthetics version</a></li>
+        <li><a href="https://www.linkedin.com/in/kavins/" target="_blank" rel="noopener" onclick="gtag('event', 'social_click', {event_category: 'engagement', event_label: 'linkedin'})">The boring version</a></li>
+        <li><a href="https://www.instagram.com/goodkavin" target="_blank" rel="noopener" onclick="gtag('event', 'social_click', {event_category: 'engagement', event_label: 'instagram'})">The aesthetics version</a></li>
       </ul>
     </section>
   </main>

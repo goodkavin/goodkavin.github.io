@@ -13,6 +13,15 @@
   <meta name="twitter:card" content="summary">
   <link rel="icon" href="favicon.gif" type="image/gif">
   <link rel="stylesheet" href="style.css">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B4Y5BZNXV6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-B4Y5BZNXV6');
+  </script>
 </head>
 
 <body>
@@ -74,7 +83,7 @@
     </div>
 
     <div class="bottom-cta">
-      <a href="contact.html">GET IN TOUCH</a>
+      <a href="contact.html" onclick="gtag('event', 'contact_click', {event_category: 'engagement'})">GET IN TOUCH</a>
     </div>
   </main>
 
