@@ -15,28 +15,28 @@
 }
 
 :root {
-  --color-bg:      #c8c5c0;
-  --color-text-1:  #0e0e0e;
-  --color-text-2:  #555555;
-  --color-link:    #2d6b8a;
-  --color-accent:  #7a5c42;
+  --color-bg: #aba7a3;
+  --color-text-1: #0e0e0e;
+  --color-text-2: #555555;
+  --color-link: #2d6b8a;
+  --color-accent: #7a5c42;
 
   --font-display: 'Michroma', system-ui, sans-serif;
-  --font-body:    'Geist Mono', 'Courier New', monospace;
+  --font-body: 'Geist Mono', 'Courier New', monospace;
 
   --ls-display: 0.20em;
   --ls-tagline: 0.12em;
-  --ls-nav:     0.15em;
+  --ls-nav: 0.15em;
 
   --michroma-stroke: 0.8px;
 
-  --text-xs:   clamp(0.7rem,  0.65rem + 0.25vw, 0.8rem);
-  --text-sm:   clamp(0.8rem,  0.75rem + 0.25vw, 0.9rem);
-  --text-base: clamp(0.85rem, 0.8rem  + 0.25vw, 0.95rem);
-  --text-lg:   clamp(1.1rem,  1rem    + 0.5vw,  1.5rem);
-  --text-xl:   clamp(1.5rem,  1.2rem  + 1.2vw,  2.5rem);
+  --text-xs: clamp(0.7rem, 0.65rem + 0.25vw, 0.8rem);
+  --text-sm: clamp(0.8rem, 0.75rem + 0.25vw, 0.9rem);
+  --text-base: clamp(0.85rem, 0.8rem + 0.25vw, 0.95rem);
+  --text-lg: clamp(1.1rem, 1rem + 0.5vw, 1.5rem);
+  --text-xl: clamp(1.5rem, 1.2rem + 1.2vw, 2.5rem);
 
-  --padding-x:   clamp(1rem, 3vw, 2rem);
+  --padding-x: clamp(1rem, 3vw, 2rem);
   --section-gap: clamp(1rem, 2.5vw, 1.75rem);
 }
 
@@ -233,7 +233,10 @@ header {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after {
+
+  *,
+  *::before,
+  *::after {
     transition-duration: 0.01ms !important;
   }
 }

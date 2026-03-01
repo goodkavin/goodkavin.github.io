@@ -1,31 +1,29 @@
 # CLAUDE.md — goodkavin.github.io
 
 ## What this is
-Personal website rebuild. Plain HTML + CSS, GitHub Pages, zero JS. Full spec: `SPEC.md`.
+Personal website. Live at goodkav.in. Plain HTML + CSS, GitHub Pages, zero JS. Full spec: `SPEC.md`.
 
 ## Method
-SDD — spec before code. Get confirmation at each step before building or making changes.
+SDD — spec before code. Confirm before changing anything.
 
 ## Local dev folder
-`_dev/` — gitignored. Holds test/scratch files (font-test.html, heading-test.html, skill files, eval output). Don't commit or clean up without checking.
+`_dev/` — gitignored. Prompts, skill files, test files. Don't commit or clean up without checking.
 
 ## Key decisions (quick ref)
-- **Fonts:** Michroma (display, 0.20em letter-spacing) + CMU Serif (body) + JetBrains Mono (labels)
-- **Colors:** `#0e0e0e` bg · `#f0ede8` text · `#6ba3be` nav links · `#a0785a` accent
-- **Layout:** Full-width, no max-width container, horizontal padding via `clamp()`
+- **Fonts:** Michroma (display, 0.20em letter-spacing) + Geist Mono (body) — two fonts only
+- **Colors:** `#c8c5c0` bg · `#0e0e0e` text · `#2d6b8a` links · `#7a5c42` hover
+- **Layout:** Full-width, no max-width container, body text capped at `60ch`
 - **Structure:** Multi-page (index, work, approach, interests, contact)
-- **Nav:** "HOME" link top-left only — no nav bar
+- **Nav:** "HOME" top-left only. No nav bar.
+- **Name:** GOOD KAVIN S. (first name is Good, not a title)
+- **Tagline:** "I help traditional Thai SMEs operate 100% digitally, with enterprise-scale thinking."
 
 ## Conventions to remember
-- **Headings/labels → ALL CAPS** (`MY WORK`, `CONTACT`, `KAVIN S.`). Not title case, not lowercase.
-- **Body copy → normal sentence case** with proper punctuation. Never all lowercase.
-- **Tagline stays as-is:** "I help companies operate digitally."
-- Links: blue (`--color-link`) for nav, brown (`--color-accent`) for project/external
-
-## Corrections log
-| My mistake | Correct behaviour |
-|---|---|
-| Wrote body copy in all lowercase | Body is normal sentence case — ALL CAPS is for headings only |
+- **Headings/labels/nav → ALL CAPS** (`MY WORKS`, `CONTACT`, `GOOD KAVIN S.`)
+- **Body copy → normal sentence case.** Never all lowercase.
+- **Numbered lists → plain `[n]` prefix** as text (not `<ol>`)
+- **Social links:** "The boring version" (LinkedIn) · "The aesthetics version" (Instagram)
+- **Link label:** "MORE PROFESSIONAL VERSION" removed — replaced by social links section
 
 ## Skills
-- `go-direct` — for writing homepage intro, approach/interests copy, LinkedIn, bios. Installed from `_dev/go-direct.skill`.
+- `go-direct` — founder copywriting voice. Installed from `_dev/go-direct.skill`.
