@@ -55,7 +55,7 @@ goodkavin.github.io/
 │   ├── Michroma-Regular.woff2
 │   └── GeistMono-Regular.woff2
 ├── assets/
-│   └── good.png             ← profile photo
+│   └── good.jpg             ← profile photo
 ├── favicon.gif
 ├── SPEC.md
 └── CLAUDE.md

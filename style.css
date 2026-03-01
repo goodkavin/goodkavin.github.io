@@ -153,11 +153,16 @@ header {
   margin-top: calc(var(--section-gap) * 2);
 }
 
-.secondary-link {
-  font-family: var(--font-display);
+.social-links {
+  list-style: none;
+}
+
+.social-links li {
+  margin-bottom: 0.3em;
+}
+
+.social-links a {
   font-size: var(--text-xs);
-  letter-spacing: var(--ls-nav);
-  -webkit-text-stroke: var(--michroma-stroke) currentColor;
 }
 
 .page-title {
