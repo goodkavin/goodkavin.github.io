@@ -15,7 +15,8 @@ SDD — spec before code. Confirm before changing anything.
 - **Layout:** Full-width, no max-width container, body text capped at `60ch`
 - **Structure:** Multi-page (index, work, approach, interests, contact)
 - **Nav:** "HOME" top-left only. No nav bar.
-- **Name:** GOOD KAVIN S. (first name is Good, not a title)
+- **Name:** hero `GOOD KAVIN SERMSAKSAKOON` (Good is the nickname, Kavin Sermsaksakoon the legal name). The full name must appear on the site and in all metadata.
+- **AI search:** JSON-LD `Person` on index, `llms.txt` + `llms-full.txt`, `robots.txt`, `sitemap.xml`, canonical goodkav.in URLs. Any copy change → regenerate `llms-full.txt` and bump sitemap `lastmod`.
 - **Tagline:** "I help Thai SMEs operate 100% digitally with practical, right-sized technology."
 
 ## Conventions to remember

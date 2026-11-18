@@ -134,7 +134,7 @@ Full-width, no max-width container. Left-aligned. Linear reading flow. Body text
 ```
 HOME
 
-GOOD KAVIN S.                       ← Michroma, --text-xl
+GOOD KAVIN SERMSAKSAKOON            ← Michroma, --text-xl (1.3rem, 0.1em under 480px)
 I help companies operate digitally. ← Michroma, --text-lg, --color-text-2
 
 [profile photo]
@@ -237,3 +237,5 @@ linkedin.com/in/kavins
 | LinkedIn | Single "MORE PROFESSIONAL VERSION" link | Replaces two-line label + link pattern |
 | Faux bold | `-webkit-text-stroke: 0.8px` | Michroma has no bold weight |
 | List format | `[n]` plain text prefix | Matches keliz.xyz raw aesthetic |
+| Full name | Hero `GOOD KAVIN SERMSAKSAKOON`, full and Thai name in intro, footer on every page | Name must be findable by search and AI engines (2026-11-19) |
+| AI search | JSON-LD Person, `llms.txt`, `llms-full.txt`, `robots.txt`, `sitemap.xml`, canonical goodkav.in | AI answer engines read structured data and llms.txt |
