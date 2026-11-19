@@ -1,0 +1,128 @@
+# Kavin Sermsaksakoon (Good): full site content
+
+> Kavin Sermsaksakoon (Thai: กวิน เสริมศักดิ์สกุล), known as Good, is the founder of Void Engineering, an AI-native company in Bangkok, Thailand. He works as a fractional CTO for Thai SME owners. He co-founded MineERP and was its COO (2022–2026). Before that he was a data engineer at Accenture (2019–2022).
+
+## Quick facts
+
+- Full name: Kavin Sermsaksakoon
+- Thai name: กวิน เสริมศักดิ์สกุล
+- Goes by: Good (also "Good Kavin", handle "goodkavin")
+- Current role: Founder, Void Engineering (2026–present); fractional CTO for Thai SMEs
+- Previous: Co-founder and COO, MineERP / NPR Digital Partner (2022–2026); Data Engineer, Accenture (2019–2022); Software Engineer Intern, Digital Ventures (SCB 10X) (2018)
+- Based in: Bangkok, Thailand
+- Languages: Thai, English
+- Focus: helping Thai SMEs operate 100% digitally with practical, right-sized technology
+- Email: hello@goodkav.in
+- LinkedIn: https://www.linkedin.com/in/kavins/
+- Instagram: https://www.instagram.com/goodkavin
+- GitHub: https://github.com/goodkavin
+- Website: https://goodkav.in
+
+---
+
+<!-- Source: https://goodkav.in/ -->
+
+## HOME
+
+## GOOD KAVIN S.
+
+I help Thai SMEs operate 100% digitally with practical, right-sized technology.
+
+Hi, my name is Good (Kavin Sermsaksakoon). My background is in enterprise data and digital transformation at scale.
+
+I chose to take that experience and apply it where it generates real impact, Thai SMEs, with a focus on manufacturers.
+
+I co-founded [MineERP](https://mineerp.com): ERP software that handles complex business flows but is simple enough for anyone on the shop floor to pick up on day one.
+
+Now I'm building [Void Engineering](https://voidengineer.ing), an AI-native company. I work as a fractional CTO for Thai SME owners, the tech leader for founders who can't justify hiring one full-time.
+
+---
+
+<!-- Source: https://goodkav.in/work.html -->
+
+## MY WORKS
+
+What I've been doing.
+
+### [2026–PRESENT] Founder, Void Engineering
+
+- Fractional CTO for Thai SME owners who have strong sales and ops but no tech leader
+- The work: digitize their operations, pull scattered data into one place, then add dashboards and AI on top
+- Delivering with agentic AI teammates handling the heavy lifting
+- Working with clients across E-Commerce, CPG, and Manufacturing
+
+### [2022–2026] Co-founder & COO, MineERP (NPR Digital Partner)
+
+- Scaling MineERP from 5 to 50+ clients
+- Worked on the ground with Thai SME shop floor workers, delivery drivers, warehouse staff, production planners, managers, and executives, to actually understand their needs
+- Built the culture and managed a team of 7–12 people: developers, designers, and QA
+- Studied a lot of ERPs and iterated MineERP over and over to find a genuinely unique way to solve these problems
+- Set UX direction for MineERP, an ERP that's as easy to use as a project management tool
+- Touched every industry along the way: Manufacturing, Trading, Retail, E-Commerce, Logistics, Construction Materials
+- Also did a lot of custom projects to keep the company running and feed myself (and my team): data platforms, dashboards, E-Commerce automation, WMS, CRM, Mini-ERP, Retail ERP, websites, government projects
+- Shout out to my team (and ex-members), and also my early clients. They are the best <3
+
+### [2019–2022] Data Engineer, Accenture
+
+- Industries: Banking, Retail, Insurance
+- The job: understand what data the business needs, find where it lives, and build pipelines to deliver it
+- Built a real-time data framework (Databricks, Azure, Kafka)
+- Researched and implemented Delta Lake (unified batch and streaming data)
+- Developed a Voice AI chatbot for customer service (POC). LLMs probably made this a lot easier now
+- Part of a big data migration from legacy on-premise in the UK to cloud in Singapore
+
+### [2018] Software Engineer Intern, Digital Ventures (SCB 10X)
+
+- Learned about blockchain and its practical applications (it's mostly hype)
+- Learned software development process at enterprise scale
+- Wrote some Kotlin and smart contracts
+- Documented APIs and business processes
+
+---
+
+<!-- Source: https://goodkav.in/approach.html -->
+
+## MY APPROACH
+
+How I work.
+
+[1] Creativity without structure is chaos. I use design discovery and engineering discipline together, turning ideas into systems where everything is tracked, verified, and worth doing.
+
+[2] Minimal is powerful. The best user manual is no user manual. The best documentation is code that doesn't need it.
+
+[3] Teach a man to fish instead of giving him fish. I value coaching and I will make everyone's encounter with me valuable. I believe people have untapped potential and I apply this to both my internal team and customers (SMEs).
+
+[4] Good results and good people aren't a trade-off. I believe professional work should be fun, not as a perk, but as a condition for doing great things. High commitment, real care. Extroverts and introverts both thrive. What matters is character and how you treat the people around you.
+
+---
+
+<!-- Source: https://goodkav.in/interests.html -->
+
+## INTERESTS
+
+This is gonna be long.
+
+**[1] Tech:** Mostly PC and server. I use Mac, Windows, Linux and just recently started a home server to host my media services and POC projects.
+
+**[2] Audio:** I've enjoyed hi-fi audio since I got my first Shure SE215 and got hooked on the sound of a live concert flooding through my ears. I'm on the objective side, following the philosophy of [NwAvGuy](http://nwavguy.blogspot.com/): well-engineered, transparent equipment at a reasonable cost, not snake oil and burn-in mythology. Current rotation: HD6XX, Hifiman HE500, Etymotic ER4XR, Crinacle Meta, Artti T10 Pro. I still run the JDS Labs O2/ODAC DIY, and I'm proud of my desktop setup: KEF R100 + Emotiva A100. Almost all bought used, which you'll see is a recurring theme.
+
+**[3] Mechanical Keyboards:** A good chef needs a good knife, a good developer needs a good keyboard. (That's what I told myself, anyway.) Started with the Anne Pro, then dove deep into the custom keyboard scene. Currently: HHKB Pro 2, Kei (60% is goated), KFE CE (silver so good), MGA Standard (alice also goated).
+
+**[4] Classic Menswear:** I still have my London Brown loafers that I've worn for 14 years. I believe I can wear my Ring Jacket suit until the day I die. I enjoy a timeless, wearable everyday style: soft-tailoring, effortless, emphasis on proportions, and value. I have a lot of stuff from Spier & Mackay, and a lot of vintage stuff. I like nice Goodyear welted shoes - Meermin, Carmina, John Lobb. Most bought used. My grail is Edward Green, but that can wait until after I've exited my startup (no consultant money now).
+
+**[5] Anime:** Let's just say as of this writing, I've watched 317 animes... some of my favorites: Ping Pong the Animation, Attack on Titan, A Place Further than the Universe, Akira, Monogatari Series, Cowboy Bebop, and a lot of KyoAni works.
+
+**[6] Hiking and Camping:** I just started getting into ultralight backpacking. I love the whole process from researching routes, planning equipment, and setting up camp. There's nothing more satisfying than an expedition through wilderness, enjoying untouched nature.
+
+**[7] Tennis and golf:**I think I'll keep playing golf for my whole life (and still can't break 80). Nothing matches the feeling of a flushed 5-iron, 200 yards right at the flag. I can't find that in any other sport. Still, I need tennis for my cardio.
+
+**[8] Learning:** Mostly through YouTube, official docs, blog posts. I also take digital notes obsessively so I can go back to them anytime. Some of my favorites: TED-ED, Kurzgesagt, Hank Green, minutephysics, Crash Course, Y Combinator. Lately, a lot of AI.
+
+---
+
+<!-- Source: https://goodkav.in/contact.html -->
+
+## CONTACT
+
+- hello@goodkav.in
+- [linkedin.com/in/kavins](https://www.linkedin.com/in/kavins/)

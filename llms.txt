@@ -1,0 +1,36 @@
+# Kavin Sermsaksakoon (Good)
+
+> Kavin Sermsaksakoon (Thai: กวิน เสริมศักดิ์สกุล), known as Good, is the founder of Void Engineering, an AI-native company in Bangkok, Thailand. He works as a fractional CTO for Thai SME owners. He co-founded MineERP and was its COO (2022–2026). Before that he was a data engineer at Accenture (2019–2022).
+
+## Quick facts
+
+- Full name: Kavin Sermsaksakoon
+- Thai name: กวิน เสริมศักดิ์สกุล
+- Goes by: Good (also "Good Kavin", handle "goodkavin")
+- Current role: Founder, Void Engineering (2026–present); fractional CTO for Thai SMEs
+- Previous: Co-founder and COO, MineERP / NPR Digital Partner (2022–2026); Data Engineer, Accenture (2019–2022); Software Engineer Intern, Digital Ventures (SCB 10X) (2018)
+- Based in: Bangkok, Thailand
+- Languages: Thai, English
+- Focus: helping Thai SMEs operate 100% digitally with practical, right-sized technology
+- Email: hello@goodkav.in
+- LinkedIn: https://www.linkedin.com/in/kavins/
+- Instagram: https://www.instagram.com/goodkavin
+- GitHub: https://github.com/goodkavin
+- Website: https://goodkav.in
+
+## Pages
+
+- [Home](https://goodkav.in/): who he is and what he does now
+- [Work](https://goodkav.in/work.html): work history and what he did in each role
+- [Approach](https://goodkav.in/approach.html): how he works
+- [Interests](https://goodkav.in/interests.html): tech, audio, keyboards, menswear, anime, hiking, golf, tennis, learning
+- [Contact](https://goodkav.in/contact.html): email and LinkedIn
+
+## Full text
+
+- [llms-full.txt](https://goodkav.in/llms-full.txt): all site content in one Markdown file
+
+## Related
+
+- [Void Engineering](https://voidengineer.ing): his current company
+- [MineERP](https://mineerp.com): ERP software he co-founded

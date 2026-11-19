@@ -237,3 +237,5 @@ linkedin.com/in/kavins
 | LinkedIn | Single "MORE PROFESSIONAL VERSION" link | Replaces two-line label + link pattern |
 | Faux bold | `-webkit-text-stroke: 0.8px` | Michroma has no bold weight |
 | List format | `[n]` plain text prefix | Matches keliz.xyz raw aesthetic |
+| Full name | Hero stays `GOOD KAVIN S.`; intro "Hi, my name is Good (Kavin Sermsaksakoon)"; full name in titles and metadata | AI and search find the full name; human view unchanged (2026-11-19) |
+| AI search | JSON-LD Person, `llms.txt`, `llms-full.txt`, `robots.txt`, `sitemap.xml`, canonical goodkav.in | AI answer engines read structured data and llms.txt |
